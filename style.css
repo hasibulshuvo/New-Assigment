@@ -1,0 +1,52 @@
+header{
+    background-color: #264653;
+}
+.text{
+    font-family: Poppins;
+
+}
+.text h1{
+    font-size: 48px;
+}
+.btn{
+    background-color:#E76F51 ;
+    color: white;
+}
+.text-color{
+    color:#E76F51 ;
+}
+.edit-pic{
+    filter: grayscale(100%);
+}
+i{
+    color:#E76F51 ;
+}
+.added-background{
+    background-color: rgb(231, 228, 228);
+}
+
+/* ext-part--1 */
+.Bikes{
+    color: rgb(4, 4, 141);
+}
+.ext-pic:hover{
+    transform: scale(1.5);
+    transition: transform 2s ease-in-out;
+}
+
+hr{
+    border: darkorange 2px solid;
+}
+
+/* ext-part--2 */
+
+.ext-2-pic:hover{
+    transform: rotate(360deg);
+    transition: transform 1s ease-in-out;
+}
+
+
+
+footer{
+    background-color: rgb(29, 28, 28);
+}
